@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
-import yoga from "@/assets/case-yoga.jpg";
-import hoodie from "@/assets/case-hoodie.jpg";
-import menswear from "@/assets/case-menswear.jpg";
+import yoga from "@/assets/testimonials/test1.jpg";
+import hoodie from "@/assets/testimonials/test2.jpg";
+import menswear from "@/assets/testimonials/test3.jpg";
 import { Reveal } from "./Reveal";
 
 const cases = [

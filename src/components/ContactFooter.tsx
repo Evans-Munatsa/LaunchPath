@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Phone, Mail } from "lucide-react";
 import { Logo } from "./Header";
-import contactImg from "@/assets/contact-aerial.jpg";
+import contactImg from "@/assets/models/models1.jpg";
 
 const ContactField = ({
   label,

@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 import { GraduationCap, Briefcase, Target, Rocket, Users } from "lucide-react";
-import o1 from "@/assets/offer-1.jpg";
-import o2 from "@/assets/offer-2.jpg";
-import o3 from "@/assets/offer-3.jpg";
-import o4 from "@/assets/offer-4.jpg";
-import o5 from "@/assets/offer-5.jpg";
+import o1 from "@/assets/models/models1.jpg";
+import o2 from "@/assets/models/models2.jpg";
+import o3 from "@/assets/models/models3.jpg";
+import o4 from "@/assets/models/models2.jpg";
+import o5 from "@/assets/models/models4.jpg";
 import { Reveal } from "./Reveal";
 
 const cards = [

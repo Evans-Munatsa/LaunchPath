@@ -19,9 +19,9 @@ export const Logo = ({ color = "white" }: { color?: string }) => (
 
 const navItems = [
   { label: "Home", to: "/" },
-  { label: "What We Do", to: "/what-we-do" },
-  { label: "About us", to: "/about-us" },
-  { label: "Contact", to: "/contact" },
+  { label: "What We Do", to: "#" },
+  { label: "About us", to: "#" },
+  { label: "Contact", to: "#" },
 ];
 
 interface HeaderProps {

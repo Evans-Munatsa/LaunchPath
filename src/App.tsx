@@ -26,7 +26,7 @@ const AnimatedRoutes = () => {
           <Route path="*" element={<NotFound />} />
         </Routes>
       </RouteTransition>
-      <AnimationDebugOverlay />
+      {/* <AnimationDebugOverlay /> */}
     </>
   );
 };

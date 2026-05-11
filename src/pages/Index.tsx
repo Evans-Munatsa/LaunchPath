@@ -1,4 +1,4 @@
-import heroImg from "@/assets/hero.jpg";
+import heroImg from "@/assets/models/models1.jpg";
 import { Header } from "@/components/Header";
 import { TeamSection } from "@/components/TeamSection";
 import { OfferSection } from "@/components/OfferSection";
@@ -36,7 +36,7 @@ const Hero = () => (
             <span className="absolute inline-flex h-full w-full animate-[pulse-ring_2.4s_ease-out_infinite] rounded-full bg-emerald-400" />
             <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-400" />
           </span>
-          Tackling SA youth unemployment
+          Tackling African youth unemployment
         </span>
         <h1 className="mt-6 text-[44px] leading-[1.05] font-bold sm:text-[58px] md:text-[78px]">
           <span className="block animate-[blur-in_.9s_cubic-bezier(.2,.7,.2,1)_both]">Connecting graduates</span>
@@ -45,7 +45,7 @@ const Hero = () => (
           </span>
         </h1>
         <p className="mt-8 max-w-[680px] text-[17px] leading-relaxed text-white/90 md:text-[18px] animate-[fade-in-up_.9s_ease-out_both]" style={{ animationDelay: "350ms" }}>
-          LaunchPath helps South African SMEs hire smarter and faster — matching ambitious graduates with entry-level roles that actually move careers forward.
+          LaunchPath helps South African SMEs hire smarter and faster, matching ambitious graduates with entry-level roles that actually move careers forward.
         </p>
         <div className="mt-10 flex flex-wrap gap-4 animate-[fade-in-up_.9s_ease-out_both]" style={{ animationDelay: "500ms" }}>
           <a href="/what-we-do" className="shine group inline-flex items-center gap-2 rounded-full bg-white px-9 py-4 text-[15px] font-semibold text-foreground transition-all duration-300 hover:scale-[1.04] hover:shadow-[0_15px_40px_-10px_rgba(255,255,255,0.5)]">
